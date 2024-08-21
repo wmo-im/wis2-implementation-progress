@@ -3,16 +3,16 @@ Brazil,III,Global Broker,	br-inmet-global-broker,Pre-operational
 China,II,Global Broker,cn-cma-global-broker,Pre-operational
 France,VI,Global Broker,fr-meteofrance-global-broker,Pre-operational
 United States of America,IV,Global Broker,us-noaa-global-broker,Pre-operational
-Germany,Global Cache, de-dwd-global-cache,Pre-operational
-Japan,Global Cache, jp-jma-global-cache,Pre-operational
-Republic of Korea,lobal Cache, kr-kma-global-cache,In-progress
-China,Global Cache,cn-cma-global-cache,Pre-operational
-UK/USA,Global Cache,data-metoffice-noaa-global-cache,Pre-operational
-Global Discovery Catalogue,ca-eccc-msc-global-discovery-catalogue,Pre-operational
-Global Discovery Catalogue,cn-cma-global-discovery-catalogue,Pre-operational
-Global Discovery Catalogue,kr-kma-global-discovery-catalogue,In-progress
-China,Global Monitor,cn-cma-global-monitor,In-progress
-Morocco,Global Monitor,ma-meteomaroc-global-monitor,In-progress
+Germany,VI,Global Cache, de-dwd-global-cache,Pre-operational
+Japan,II,Global Cache, jp-jma-global-cache,Pre-operational
+Republic of Korea,II,lobal Cache, kr-kma-global-cache,In-progress
+China,II,Global Cache,cn-cma-global-cache,Pre-operational
+UK/USA,VI/IVGlobal Cache,data-metoffice-noaa-global-cache,Pre-operational
+Canada,IV,Global Discovery Catalogue,ca-eccc-msc-global-discovery-catalogue,Pre-operational
+China,II,Global Discovery Catalogue,cn-cma-global-discovery-catalogue,Pre-operational
+Republic of Korea,II,Global Discovery Catalogue,kr-kma-global-discovery-catalogue,In-progress
+China,II,Global Monitor,cn-cma-global-monitor,In-progress
+Morocco,I,Global Monitor,ma-meteomaroc-global-monitor,In-progress
 Anguilla,IV,WIS2Node(NC),ai-metservice,Pre-operational
 Antigua and Barbuda,IV,WIS2Node(NC),ag-antiguamet,Pre-operational
 Argentina,III,WIS2Node(NC),ar-smn,Pre-operational
