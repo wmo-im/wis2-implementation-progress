@@ -3,4 +3,75 @@ Brazil,III,Global Broker,Pre-operational
 China,II,Global Broker,Pre-operational
 France,VI,Global Broker,Pre-operational
 United States of America,IV,Global Broker,Pre-operational
-Algeria,I,WIS2 Node(NC),Pre-operational
+Anguilla,IV,WIS2Node(NC),ai-metservice,Pre-operational
+Antigua and Barbuda,IV,WIS2Node(NC),ag-antiguamet,Pre-operational
+Argentina,III,WIS2Node(NC),ar-smn,Pre-operational
+Australia,V,WIS2Node(NC),au-bom,Pre-operational
+Bahamas,IV,WIS2Node(NC),bs-metservice,Pre-operational
+Barbados,IV,WIS2Node(NC),bb-barbadosmetservices,Pre-operational
+Belize,IV,WIS2Node(NC),bz-nms,Pre-operational
+Brazil,III,WIS2Node(NC),br-inmet,Pre-operational
+Burkina Faso,I,WIS2Node(NC),bf-anam,Pre-operational
+Cameroon,I,WIS2Node(NC),cm-meteocameroon,Pre-operational
+Canada,IV,WIS2Node(NC),ca-eccc-msc,Pre-operational
+Cayman Islands,IV,WIS2Node(NC),ky-cinws,Pre-operational
+China,II,WIS2Node(NC),cn-cma,Pre-operational
+Chile,III,WIS2Node(NC),cl-meteochile,Pre-operational
+Congo,I,WIS2Node(NC),cg-met,Pre-operational
+Cuba,IV,WIS2Node(NC),cu-insmet,Pre-operational
+Cura��ao and Sint Maarten,IV,WIS2Node(NC),sx-metservice,Pre-operational
+Cyprus,VI,WIS2Node(NC),cy-dom,Pre-operational
+Denmark,VI,WIS2Node(NC),dk-dmi-opendata,Pre-operational
+Dominica,IV,WIS2Node(NC),dm-dms,Pre-operational
+Eswatini,I,WIS2Node(NC),sz-swazimet,Pre-operational
+FraWIS2Node(NC)e,VI,WIS2Node(NC),fr-meteofraWIS2Node(NC)e,Pre-operational
+Germany,VI,WIS2Node(NC),de-dwd,Pre-operational
+Germany,VI,Gateway,de-dwd-gts-to-wis2,Pre-operational
+Grenada,IV,CMO,gd-metservice,Pre-operational
+Guinea,I,WIS2Node(NC),gn-meteo-guinee-conakry,Pre-operational
+Guyana,III,WIS2Node(NC),gy-hydromet,Pre-operational
+"Hong Kong,China",II,WIS2Node(NC),hk-hko,Pre-operational
+"Hong Kong,China",II,WIS2Node(DCPC),hk-hko-swic,Pre-operational
+India,II,WIS2Node(NC),in-imd,Pre-operational
+Indonesia,V,WIS2Node(NC),id-bmkg,Pre-operational
+Iran (Islamic Republic of),II,WIS2Node(NC),ir-irimo,Pre-operational
+Israel,VI,WIS2Node(NC),il-ims,Pre-operational
+Italy,VI,WIS2Node(NC),it-meteoam,Pre-operational
+Jamaica,IV,WIS2Node(NC),jm-msj,Pre-operational
+Japan,II,WIS2Node(NC),jp-jma,Pre-operational
+Japan,II,Gateway,jp-jma-gts-to-wis2,Pre-operational
+Kenya,I,WIS2Node(NC),ke-meteo,Pre-operational
+Kazakhstan,II,WIS2Node(NC),kz-kazhydromet,Pre-operational
+Libya (State of),I,WIS2Node(NC),ly-lnmc,Pre-operational
+Malaysia,V,WIS2Node(NC),my-metmalaysia,Pre-operational
+Morocco,I,WIS2Node(NC),ma-marocmeteo,Pre-operational
+Monserrat,IV,WIS2Node(NC),ms-metservice,Pre-operational
+Namibia,I,WIS2Node(NC),na-meteona,Pre-operational
+New Zealand,V,WIS2Node(NC),nz-metservice,Pre-operational
+Nigeria,I,WIS2Node(NC),ng-nimet,Pre-operational
+Poland,VI,WIS2Node(NC),pl-imgw,Pre-operational
+Republic of Korea,II,WIS2Node(NC),kr-kma,Pre-operational
+Russian Federation,VI,WIS2Node(NC),ru-aviamettelecom,Pre-operational
+Saint Lucia,IV,WIS2Node(NC),lc-metservice,Pre-operational
+Singapore,V,WIS2Node(NC),sg-mss,Pre-operational
+Singapore,V,WIS2Node(DCPC),sg-mss-asmc,Pre-operational
+South Africa,I,WIS2Node(NC),za-weathersa,Pre-operational
+St. Kitts and Nevis,IV,WIS2Node(NC),kn-metservice,Pre-operational
+St. ViWIS2Node(NC)ent and the Grenadines,IV,CMO,vc-metservice,Pre-operational
+Sweden,VI,WIS2Node(NC),se-smhi,Pre-operational
+Trinidad and Tobago,IV,WIS2Node(NC),tt-trin-met,Pre-operational
+Turks and Caicos Islands,IV,WIS2Node(NC),tc-metservice,Pre-operational
+United Kingdom of Great Britain and Northern Ireland,VI,WIS2Node(NC),uk-metoffice-nmc,Pre-operational
+United States of America,IV,WIS2Node(NC),us-noaa-synoptic,Pre-operational
+United States of America,IV,WIS2Node(NC),us-noaa-nws,Pre-operational
+United States of America,IV,WIS2Node(NC),us-synoptic-uas,Pre-operational
+United States of America,IV,WIS2Node(DCPC)(TBC),us-ucsd-scripps-ldl,Pre-operational
+United States of America,IV,WIS2Node(DCPC),us-cimss,Pre-operational
+Uruguay,III,WIS2Node(NC),uy-inumet,Pre-operational
+Zambia,I,WIS2Node(NC),zm-zmd,Pre-operational
+Zimbabwe,I,WIS2Node(NC),zw-msd,Pre-operational
+ECMWF,VI,WIS2Node(DCPC),int-ecmwf,Pre-operational
+EUMETSAT,VI,WIS2Node(DCPC),int-eumetsat,Pre-operational
+EUMETNET,VI,WIS2Node(DCPC)(TBC),eu-eumetnet-femdi,Pre-operational
+
+
