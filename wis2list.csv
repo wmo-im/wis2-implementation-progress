@@ -3,6 +3,16 @@ Brazil,III,Global Broker,	br-inmet-global-broker,Pre-operational
 China,II,Global Broker,cn-cma-global-broker,Pre-operational
 France,VI,Global Broker,fr-meteofrance-global-broker,Pre-operational
 United States of America,IV,Global Broker,us-noaa-global-broker,Pre-operational
+Germany,Global Cache, de-dwd-global-cache,Pre-operational
+Japan,Global Cache, jp-jma-global-cache,Pre-operational
+Republic of Korea,lobal Cache, kr-kma-global-cache,In-progress
+China,Global Cache,cn-cma-global-cache,Pre-operational
+UK/USA,Global Cache,data-metoffice-noaa-global-cache,Pre-operational
+Global Discovery Catalogue,ca-eccc-msc-global-discovery-catalogue,Pre-operational
+Global Discovery Catalogue,cn-cma-global-discovery-catalogue,Pre-operational
+Global Discovery Catalogue,kr-kma-global-discovery-catalogue,In-progress
+China,Global Monitor,cn-cma-global-monitor,In-progress
+Morocco,Global Monitor,ma-meteomaroc-global-monitor,In-progress
 Anguilla,IV,WIS2Node(NC),ai-metservice,Pre-operational
 Antigua and Barbuda,IV,WIS2Node(NC),ag-antiguamet,Pre-operational
 Argentina,III,WIS2Node(NC),ar-smn,Pre-operational
@@ -19,7 +29,7 @@ China,II,WIS2Node(NC),cn-cma,Pre-operational
 Chile,III,WIS2Node(NC),cl-meteochile,Pre-operational
 Congo,I,WIS2Node(NC),cg-met,Pre-operational
 Cuba,IV,WIS2Node(NC),cu-insmet,Pre-operational
-Cura��ao and Sint Maarten,IV,WIS2Node(NC),sx-metservice,Pre-operational
+Curaçao and Sint Maarten,IV,WIS2Node(NC),sx-metservice,Pre-operational
 Cyprus,VI,WIS2Node(NC),cy-dom,Pre-operational
 Denmark,VI,WIS2Node(NC),dk-dmi-opendata,Pre-operational
 Dominica,IV,WIS2Node(NC),dm-dms,Pre-operational
