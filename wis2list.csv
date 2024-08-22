@@ -34,7 +34,7 @@ Cyprus,VI,WIS2Node(NC),cy-dom,Pre-operational
 Denmark,VI,WIS2Node(NC),dk-dmi-opendata,Pre-operational
 Dominica,IV,WIS2Node(NC),dm-dms,Pre-operational
 Eswatini,I,WIS2Node(NC),sz-swazimet,Pre-operational
-FraWIS2Node(NC)e,VI,WIS2Node(NC),fr-meteofraWIS2Node(NC)e,Pre-operational
+France,VI,WIS2Node(NC),fr-meteofraWIS2Node(NC)e,Pre-operational
 Germany,VI,WIS2Node(NC),de-dwd,Pre-operational
 Germany,VI,Gateway,de-dwd-gts-to-wis2,Pre-operational
 Grenada,IV,CMO,gd-metservice,Pre-operational
@@ -67,7 +67,7 @@ Singapore,V,WIS2Node(NC),sg-mss,Pre-operational
 Singapore,V,WIS2Node(DCPC),sg-mss-asmc,Pre-operational
 South Africa,I,WIS2Node(NC),za-weathersa,Pre-operational
 St. Kitts and Nevis,IV,WIS2Node(NC),kn-metservice,Pre-operational
-St. ViWIS2Node(NC)ent and the Grenadines,IV,CMO,vc-metservice,Pre-operational
+St. Vincent and the Grenadines,IV,CMO,vc-metservice,Pre-operational
 Sweden,VI,WIS2Node(NC),se-smhi,Pre-operational
 Trinidad and Tobago,IV,WIS2Node(NC),tt-trin-met,Pre-operational
 Turks and Caicos Islands,IV,WIS2Node(NC),tc-metservice,Pre-operational
